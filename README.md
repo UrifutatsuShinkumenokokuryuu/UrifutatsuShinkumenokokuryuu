@@ -6,7 +6,7 @@
 
 #  プロジェクト
 ## 🐛 Bookworm Adventure 2 (Unity)
-> El objetivo del proyecto es no solo recrear el juego Bookworm Adventure 2, sino lograr que el juego tenga una versión en español que nunca tuvo desde el año en el que fue publicado.
+> 私はスペイン語で　「Bookworm Adventure 2」　作りたい。2007年に作られた、このゲームは英語の言語がだけ使いました。今、私は　「Bookworm Adventure 2」　もう一度かいはつしています。でも、今回はスペイン語だけ使っています。　:D
 
 ![https://i.imgur.com/abc1234.png](BA2_Gameplay.gif)
 
