@@ -1,4 +1,4 @@
-## 👋 ようこそ、僕はホスエです!
+# 👋 ようこそ、僕はホスエです!
 
 🎮 Diseñador de simuladores y videojuegos en formación :D 
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Proyectos Actuales
+##  Proyectos Actuales
 - 🐛 Bookworm Adventure 2 (Unity)
 
 
