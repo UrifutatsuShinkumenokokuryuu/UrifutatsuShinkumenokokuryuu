@@ -1,10 +1,10 @@
 # 👋 ようこそ、僕はホスエです!
 
->🎮 Diseñador de simuladores y videojuegos en desarrollo :D
+>🎮 かいはつ中のビデオゲームデザイナー :D
 >
 >📚 日本語が大好き！
 
-#  Proyecto Actual
+#  プロジェクト
 ## 🐛 Bookworm Adventure 2 (Unity)
 > El objetivo del proyecto es no solo recrear el juego Bookworm Adventure 2, sino lograr que el juego tenga una versión en español que nunca tuvo desde el año en el que fue publicado.
 
