@@ -1,10 +1,9 @@
 # 👋 ようこそ、僕はホスエです!
 
-🎮 Diseñador de simuladores y videojuegos en formación :D 
+🎮 Diseñador de simuladores y videojuegos en desarrollo :D 
 
 📚 日本語が大好き！
 
-🧩 Me encanta resolver puzzles y experimentar con juegos creativos.
 
 ---
 
