@@ -10,8 +10,10 @@
 ##  Proyectos Actuales
 - 🐛 Bookworm Adventure 2 (Unity)
 
-
 ![https://i.imgur.com/abc1234.png](BA2_Gameplay.gif)
+
+El objetivo del proyecto es no solo recrear el juego Bookworm Adventure 2, sino que lograr que el juego tenga una versión en español que nunca tuvo desde el año en el que fue publicado.
+
 
 <!--  
 ![https://i.imgur.com/abc1234.png](https://static.wikia.nocookie.net/bookwormadventures/images/1/13/Stasis_net.jpg/revision/latest?cb=20120318000017)
