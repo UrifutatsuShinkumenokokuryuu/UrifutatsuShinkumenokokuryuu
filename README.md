@@ -7,7 +7,7 @@
 
 
 
-#  Proyecto Actuale 
+#  Proyecto Actual
 ## 🐛 Bookworm Adventure 2 (Unity)
 ![https://i.imgur.com/abc1234.png](BA2_Gameplay.gif)
 
